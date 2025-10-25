@@ -67,6 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
@@ -104,7 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text('Shiva'),
+            const Text('Shiva Ken'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
