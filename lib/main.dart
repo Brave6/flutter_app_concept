@@ -117,10 +117,14 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
 <<<<<<< HEAD
+<<<<<<< HEAD
             const Text('Count'),
 =======
             const Text('Test Push Tangina Ka'),
 >>>>>>> d7ee08255c9abc91402b54d1659e7d5f7f14d71c
+=======
+            const Text('Shiva'),
+>>>>>>> parent of d7ee082 (Flutter Test)
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
