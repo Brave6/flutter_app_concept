@@ -1,4 +1,4 @@
-# flutter_app_concept
+# Flutter App Concept
 
 A new Flutter project.
 
