@@ -116,11 +116,10 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-<<<<<<< HEAD
+
             const Text('Count'),
-=======
-            const Text('Test Push Tangina Ka'),
->>>>>>> d7ee08255c9abc91402b54d1659e7d5f7f14d71c
+
+
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
